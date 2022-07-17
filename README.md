@@ -13,5 +13,5 @@
   go run ./main.go
 ```
 
-### go to /models/sql and run 02_data.sql for populating DB fake data's
-### in /external folder exists Postman collections
+#### go to /models/sql and run 02_data.sql for populating DB fake data's
+#### in /external folder exists Postman collections
